@@ -29,3 +29,7 @@ This project focuses on predicting the likelihood of **diabetes** in patients us
 - **Pandas, NumPy, Scikit-Learn**  
 - **Flask, HTML/CSS**  
 - **Streamlit**  
+
+## 🖼️ Demo Screenshot
+
+![App Screenshot](output.png)
