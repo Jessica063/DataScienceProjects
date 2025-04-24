@@ -32,5 +32,5 @@ A smart system to optimize the assignment of support tickets to employees based 
 
 ## 📸 Screenshot
 
-<img src="dashboard.png" width="50%" alt="Dashboard Screenshot">
+<img src="dashboard.png" width="100%" alt="Dashboard Screenshot">
 
